@@ -2,7 +2,7 @@
 This repository containes material related to the course about data science kick off for teenagers!
 
 <p float="center">
-    <img src="posterSI.jpg" alt="posterSI" width="400"/>
+    <img src="poster.jpeg" alt="posterSI" width="400"/>
 </p>
 
 ### The requirements
