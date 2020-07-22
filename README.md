@@ -14,3 +14,14 @@ This repository containes material related to the course about data science kick
   
   3. **Jupyter Notebook** will be used as development environment.
  
+You also are able to open the notebooks using bellow links:
+
+- [0-jupyter_notebooks.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/0-jupyter_notebooks.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/0-jupyter_notebooks.ipynb)
+
+- [1-python_basics.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/1-python_basics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/1-python_basics.ipynb)
+
+- [2-numpy.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/2-numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/2-numpy.ipynb)
+
+- [3-matplotlib.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/3-matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/3-matplotlib.ipynb)
+
+
