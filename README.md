@@ -24,8 +24,8 @@ You also are able to open the notebooks using bellow links:
 
 - [3-matplotlib.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/3-matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/3-matplotlib.ipynb)
 
-- [session_6.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/session-6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/session-6.ipynb)
+- [session-6.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/session-6.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/session-6.ipynb)
 
-- [session_7.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/session-7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/session-7.ipynb)
+- [session-7.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/session-7.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/session-7.ipynb)
 
-- [session_8.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/session-8.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/session-8.ipynb)
+- [session-8.ipynb](https://github.com/vafaei-ar/Teenotech-2020/blob/master/session-8.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vafaei-ar/Teenotech-2020/blob/master/session-8.ipynb)
